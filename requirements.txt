@@ -1,0 +1,5 @@
+requests
+netifaces
+scapy
+colorama
+tqdm
